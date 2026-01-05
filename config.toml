@@ -1,0 +1,6 @@
+TCP = 15001 # TCP port for server.
+WS = 15003 # Websocket port for server.
+WS_CONNECTIONS_LIMIT = 600 # Websocket connections limit.
+WS_REQUEST_TIMEOUT = 5 # Websocekt request timeout in minutes.
+WS_SESSION_TIMEOUT = 120 # Websocket session timeout in minutes.
+WS_REQUEST_SIZE_LIMIT = 4096 # Websocket request size limit in bytes.
